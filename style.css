@@ -1,0 +1,60 @@
+* {
+    font-family: sans-serif;
+}
+
+.main {
+
+    border: solid black;
+    position: relative;
+    left: 35%;
+    padding: 3%;
+    width: fit-content;
+
+}
+
+body {
+    background-image: url(desktop-wallpaper-microchip-neon-lines-black-background-chips-technology-background-for-with-resolution-high-quality.jpg);
+    background-size: cover;
+}
+
+input {
+    height: 40px;
+    width: 220px;
+    font-size: 30px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.main {
+    background-color: antiquewhite;
+
+
+}
+
+.inp {
+    /* font-size: px; */
+    text-align: center;
+
+
+}
+
+.btn-section {
+    padding: 2px;
+    text-align: center;
+}
+
+.btn {
+    width: 50px;
+    height: 30px;
+    margin: 2px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.al {
+    text-align: center;
+}
